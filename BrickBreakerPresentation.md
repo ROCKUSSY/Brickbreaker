@@ -367,26 +367,4 @@ glutMainLoop();
 
 These simulate real lighting and shadow interactions to give the game a polished 3D appearance.
 
----
-
-## 📷 Recommended Enhancements
-
-To visualize the game better in the README:
-
-- Add **screenshots** of:
-  - Menu Screen
-  - In-Game (bricks + paddle + ball)
-  - Game Over / Win screen
-
-Example Markdown (once images are available):
-
-```markdown
-### 📸 In-Game Screenshot
-![Gameplay](images/brickbreaker_gameplay.png)
-
-### 🏆 Victory Screen
-![You Win](images/brickbreaker_win.png)
-```
-
-Let me know if you'd like help generating sample screenshots or creating ASCII art diagrams of gameplay layout.
 
